@@ -1,4 +1,4 @@
-# Analysing income and consumer spending via Covariance, Correlation & Regression Analysis – SAS & Excel
+# Analysing income and consumer spending via Covariance, Correlation & Regression Analysis :-SAS & Excel
 
 This repository contains the academic project that I undertook for the course **Computer Applications for Marketing Analytics (MKTG 744) at **Centennial College**. The objective was to perform exploratory and inferential statistical analysis using **SAS Enterprise Guide** and **Microsoft Excel** on two datasets: stock performance and consumer product purchasing behavior.
 
