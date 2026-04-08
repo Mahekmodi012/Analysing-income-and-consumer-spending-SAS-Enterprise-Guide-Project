@@ -74,6 +74,12 @@ This repository contains the academic project that I undertook for the course **
 - Scatter plots with trendline and regression equation (Excel)
 - Correlation tables and matrices (SAS & Excel)
 - Interpretive summaries of outputs included in the Word doc
+<img width="512" height="395" alt="image" src="https://github.com/user-attachments/assets/0a97f1c5-fb5d-4845-84ec-34a076373ce2" />
+<img width="534" height="516" alt="image" src="https://github.com/user-attachments/assets/6dc10889-ad2c-436e-b604-679c08c0c063" />
+<img width="625" height="416" alt="image" src="https://github.com/user-attachments/assets/dd85e7ab-5a25-48ce-a734-40af0edfdaaa" />
+<img width="669" height="493" alt="image" src="https://github.com/user-attachments/assets/9247f586-4f05-43f9-bd61-b0de4e6ba47d" />
+
+
 
 ---
 
